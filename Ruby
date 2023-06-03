@@ -1,5 +1,5 @@
 {
-    "name": "Ruby Theme",
+    "name": "Ruby",
     "description": "Same thing, Same thing.",
     "authors": [
         {
