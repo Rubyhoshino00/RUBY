@@ -1,9 +1,9 @@
 {
-    "name": "Ruby",
+    "name": "AiChan",
     "description": "Same thing, Same thing.",
     "authors": [
         {
-            "name": "Ruby",
+            "name": "Ai",
             "id": "639959347518242821"
         }
     ],
